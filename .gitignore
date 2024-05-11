@@ -141,8 +141,6 @@ cython_debug/
 .vscode
 
 LovaszSoftmax
-inputs/*
-models/*
-outputs/*
+
 
 !gitkeep
